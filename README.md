@@ -3,7 +3,7 @@
 Welcome! This repository is an automatically updated archive of my LeetCode submissions. It tracks my daily consistency, problem-solving strategies, and progress in mastering data structures and algorithms.
 
 ## My Coding Stats
-![LeetCode Stats](https://vercel.app)
+[![Leetcode Stats](https://jacoblin.cool)](https://leetcode.com)
 
 ## Repository Structure
 The repository is synced via automated browser extensions. Every solved problem includes:
